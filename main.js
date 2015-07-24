@@ -1,2 +1,3 @@
-alert('Diego pon atención');
-alert('Vamos por el segundo commit');
+(function holaDiego (){
+	console.log('Hola a todos, menos a Diego.');
+}())
